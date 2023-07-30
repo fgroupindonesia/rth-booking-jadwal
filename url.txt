@@ -1,0 +1,3 @@
+https://github.com/fgroupindonesia/rth-booking-jadwal.git
+
+<link href='https://cdn.jsdelivr.net/gh/fgroupindonesia/rth-booking-jadwal@latest/manifest.json' rel='manifest' />

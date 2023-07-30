@@ -1,0 +1,80 @@
+{
+  "name": "Booking Jadwal RTH",
+  "short_name": "Booking Jadwal RTH",
+  "description": "Terapi Islami Cara Sehat Alami",
+  "lang": "id-ID",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "start_url": "https://www.rumahterapiherbal.web.id/p/booking.html",
+  "theme_color": "#ffffff",
+  "orientation": "portrait",
+  "dir": "ltr",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/fgroupindonesia/rth-booking-jadwal@latest/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/fgroupindonesia/rth-booking-jadwal@latest/apple-icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/fgroupindonesia/rth-booking-jadwal@latest/favicon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/fgroupindonesia/rth-booking-jadwal@latest/apple-icon-120x120.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/fgroupindonesia/rth-booking-jadwal@latest/android-icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/fgroupindonesia/rth-booking-jadwal@latest/apple-icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/fgroupindonesia/rth-booking-jadwal@latest/android-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/fgroupindonesia/rth-booking-jadwal@latest/android-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+   {
+      "src": "https://cdn.jsdelivr.net/gh/fgroupindonesia/rth-booking-jadwal@latest/screenshot1%20(1).jpg",
+      "sizes": "1080x1920",
+      "type": "image/png"
+    },
+     {
+      "src": "https://cdn.jsdelivr.net/gh/fgroupindonesia/rth-booking-jadwal@latest/screenshot1%20(2).jpg",
+      "sizes": "1080x1920",
+      "type": "image/png"
+    },
+     {
+      "src": "https://cdn.jsdelivr.net/gh/fgroupindonesia/rth-booking-jadwal@latest/screenshot1%20(3).jpg",
+      "sizes": "1080x1920",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/fgroupindonesia/rth-booking-jadwal@latest/screenshot%20big.png",
+      "sizes": "1280x800",
+      "type": "image/png"
+    }
+  ],
+  "serviceworker": {
+    "src": "https://rumahterapiherbal.web.id/sw.js"
+  }
+}
